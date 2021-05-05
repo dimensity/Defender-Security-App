@@ -27,8 +27,8 @@ Privacy and Simplicity focused Security App.
  
 </p>
 
-<p float="middle">
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image5.jpg?raw=true" width="200" /> 
+<p align="center">
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/getit.png?raw=true" width="200" /> 
  
 </p>
 
