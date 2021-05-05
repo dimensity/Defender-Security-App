@@ -1,16 +1,60 @@
-# defender
+<p align="center">
+    <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/logo.png?raw=true" alt="PhonePe App Logo" width="120" height="120">
+  </a>
+</p>
 
-A new Flutter project.
+<h3 align="center">Defender Security App</h3>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://img.shields.io/github/issues/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/forks/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/stars/Jay-Tillu/Xylophone">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+Privacy and Simplicity focused Security App.
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+
+<p float="left">
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image6.jpg?raw=true" width="300" />
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image6.jpg?raw=true" width="300" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image6.jpg?raw=true">
+</p>
+
+## Plugins
+
+* flutter_statusbarcolor: ^0.2.3
+* font_awesome_flutter: ^8.11.0
+* colorful_safe_area: ^0.2.1
+* modal_progress_hud: ^0.1.3
+* http: ^0.12.2
+* image_picker: ^0.6.7+21
+* image_ink_well: ^0.1.0
+* image_cropper: ^1.3.1
+* flutter_image_compress: ^0.7.0
+* timer_button: ^1.0.1
+* firebase_storage: ^7.0.0
+* firebase_core: ^0.7.0
+* firebase_auth: ^0.20.0+1
+* cloud_firestore: ^0.16.0
+* intl: ^0.16.1
+* cool_alert: ^1.0.3
+* tap_debouncer: ^1.0.1
+* url_launcher: ^5.7.10
+* webview_flutter: ^1.0.7
+* flutter_initicon: ^1.0.3
+
+
+## Technologies
+
+* Flutter -- version 1.19.0
+* Dart -- version 2.11.0
