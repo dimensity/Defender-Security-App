@@ -28,11 +28,6 @@ Privacy and Simplicity focused Security App.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/getit.png?raw=true" width="200" /> 
- 
-</p>
-
-<p align="center">
 
 [![alt text](https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/getit.png?raw=true "Check it on Google Play")
 ](https://play.google.com/store/apps/details?id=com.immolationinc.defender)
