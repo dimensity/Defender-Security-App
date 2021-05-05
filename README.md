@@ -18,12 +18,12 @@ Privacy and Simplicity focused Security App.
 ## Screenshots
 
 <p float="middle">
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/imageleft.jpg?raw=true" width="250" />
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/imageright.jpg?raw=true" width="250" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image2.jpg?raw=true" width="250" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image3.jpg?raw=true" width="250" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image4.jpg?raw=true" width="250" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image5.jpg?raw=true" width="250" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/imageleft.jpg?raw=true" width="150" />
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/imageright.jpg?raw=true" width="150" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image2.jpg?raw=true" width="150" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image3.jpg?raw=true" width="150" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image4.jpg?raw=true" width="150" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image5.jpg?raw=true" width="150" /> 
  
 </p>
 
