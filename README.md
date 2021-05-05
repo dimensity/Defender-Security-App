@@ -20,10 +20,10 @@ Privacy and Simplicity focused Security App.
 ## Screenshots
 
 
-<p float="left">
+<p float="middle">
   <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image6.jpg?raw=true" width="300" />
   <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image6.jpg?raw=true" width="300" /> 
-  <img src="/img3.png" width="100" />
+ 
 </p>
 
 <p align="center">
