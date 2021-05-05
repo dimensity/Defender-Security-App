@@ -27,12 +27,12 @@ Privacy and Simplicity focused Security App.
  
 </p>
 
-<p align="center">
 
-[![alt text](https://en.logodownload.org/wp-content/uploads/2019/06/get-it-on-google-play-badge-6.png "Check it on Google Play")
+
+[![alt text](https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/getitimage.png?raw=true "Check it on Google Play")
 ](https://play.google.com/store/apps/details?id=com.immolationinc.defender)
 
-</p>
+
 
 
 ## Plugins
